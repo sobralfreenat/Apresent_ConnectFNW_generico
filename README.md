@@ -1,2 +1,1 @@
-# resotest01
-test reso depploy
+Video_DiagDecisOXF_Tutorial/
